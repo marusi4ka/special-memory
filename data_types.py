@@ -22,13 +22,3 @@ print(id(my_personal_mail_b_1))
 variable_1 : int = 135
 variable_2 : str = "136"
 print(variable_1, variable_2)
-
-
-
-
-
-
-
-
-
-
