@@ -30,8 +30,3 @@ print(sum_result)
 
 dont_understand=True or False
 print(dont_understand)
-
-
-
-
-
