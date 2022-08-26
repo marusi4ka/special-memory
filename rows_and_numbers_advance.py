@@ -3,9 +3,9 @@ s1 = "Boris Johnson"
 s2 = s1.swapcase()
 print(s2)
 
-str = " Boris Johnson "
+str = " Boris "
 name_1 = str.replace(" ", "")
-print(name)
+print(name_1)
 
 name = 'Boris'
 sentence = 'Boris, Hello'
