@@ -19,8 +19,3 @@ print(str)
 
 str_for_slice = "Boris"
 print("reversed string --> ", str_for_slice[::-1])
-
-
-
-
-
