@@ -16,4 +16,4 @@ square_root = value_1 ** 0,5
 print(square_root, type(square_root))
 
 division_remainder = value_1 % 2
-print( division_remainder, type(division_remainder))
+print(division_remainder, type(division_remainder))
