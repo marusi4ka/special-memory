@@ -16,6 +16,5 @@ name = 'Boris'
 str = len(name)
 print(str)
 
-
 str_for_slice = "Boris"
 print("reversed string --> ", str_for_slice[::-1])
